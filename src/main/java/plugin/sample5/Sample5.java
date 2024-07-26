@@ -92,3 +92,4 @@ public final class Sample5 extends JavaPlugin implements Listener {
   }
 }
 
+//コメント追加
